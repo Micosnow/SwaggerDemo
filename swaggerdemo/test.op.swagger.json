@@ -69,30 +69,5 @@
                 "Type": "Required"
             }
         ],
-        "Recurrence": {
-            "Pattern": {
-                "Type": "Weekly",
-                "Interval": 1,
-                "Month": 0,
-                "Index": "First",
-                "FirstDayOfWeek": "Sunday",
-                "DayOfMonth": 0,
-                "DaysOfWeek": [
-                    "Monday"
-                ]
-            },
-            "Range": {
-                "Type": "NoEnd",
-                "StartDate": "2014-10-13T00:00:00-07:00",
-                "EndDate": "0001-01-01T00:00:00Z",
-                "NumberOfOccurrences": 0
-            }
-        },
-        "Organizer": {
-            "EmailAddress": {
-                "Address": "alexd@a830edad9050849NDA1.onmicrosoft.com",
-                "Name": "Alex D"
-            }
-        }
     }
 }
